@@ -16,11 +16,11 @@
 			"url": "https://github.com/aimeos/php-coveralls.git"
 	}],
     "require": {
-        "omnipay/common": "~2.0"
+        "omnipay/common": "^2.0"
     },
     "require-dev": {
 		"satooshi/php-coveralls": "dev-master",
-        "omnipay/tests": "~2.0"
+        "omnipay/tests": "^2.0"
     },
     "autoload": {
         "psr-0": { "Omnipay\\Sofort\\" : "src/" }
